@@ -1,0 +1,9 @@
+{
+  "name": "is-in-document",
+  "version": "1.0.0",
+  "description": "Check if element in document.",
+  "main": "index.js",
+  "repository": "git@github.com:afeiship/is-in-document.git",
+  "author": "feizheng <1290657123@qq.com>",
+  "license": "MIT"
+}
